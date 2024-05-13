@@ -3,13 +3,16 @@
 
 
 # Black-kit why?
+Black-kit: It is a program that includes 10 projects such as hacking and security. 
 
-
-# clone folder
+# Clone package
 `git clone https://github.com/coderfenrir/Black-kit`
 
+# Go to directory
 `cd Black-kit/`
 
+# Activate package
 `chmod +x Black-kit.sh`
 
+# Run
 `bash Black-kit.sh`
